@@ -31,12 +31,11 @@ stage('Integration Tests on Staging ') {
         steps {
             echo "Test using Selenium:"
     }
-
+}
 stage('Deploy to Production ') {
     steps {
         echo "Deploying the code using AWS CLI:"
     }
-}
 }
 }
 }
