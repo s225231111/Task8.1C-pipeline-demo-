@@ -1,5 +1,3 @@
 # Task8.1C-pipeline-demo-
 
-abc
-bbb
-scscs
+this is the new commit
